@@ -10,14 +10,14 @@
   "author": "Tim T",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
     "method-override": "^2.3.10",
-    "mysql2": "^1.5.2",
+    "mysql2": "^1.5.3",
     "mz": "^2.7.0",
     "request-promise": "^4.2.2",
     "routes": "^2.1.0",
-    "sequelize": "^4.35.2",
+    "sequelize": "^4.37.7",
     "twitter": "^1.7.1"
   },
   "devDependencies": {
